@@ -1,0 +1,26 @@
+{
+    "en": {
+        "welcomeMsg": "Welcome! 👋\nI am - <b>Libray Bot</b>.\nAnd I will help you find the books that interest you 😉",
+        "selectBook": "Select a book 📖",
+        "selectSubject": "Please Select a Subject 📜",
+        "searchBook": "Send the title of the book for search 🔎",
+        "selectBotLanguage": "Select the Bot language",
+        "selectLanguage": "Select a language"
+    },
+    "ru": {
+        "welcomeMsg": "Добро пожаловать! 👋\nЯ - <b>Libray Bot</b>.\nИ я помогу Вам найти книги, которые вас интересуют 😉",
+        "selectBook": "Выберите книгу 📖",
+        "selectSubject": "Пожалуйсто выберите тема 📜",
+        "searchBook": "Введите название книги для поиска 🔎",
+        "selectBotLanguage": "Выберите язык Бота",
+        "selectLanguage": "Выберите язык"
+    },
+    "hy": {
+        "welcomeMsg": "Բարի գալուստ! 👋\nԵս - <b>Libray Bot</b>֊ն եմ.\nԵվ կօգնեմ քեզ գտնել քեզ հետաքրքող գրքերը 😉",
+        "selectBook": "Ընտրեք գիրքը 📖",
+        "selectSubject": "Խնդրեմ ընտրեք թեման 📜",
+        "searchBook": "Ուղարկեք գրքի անվանումը, որոնելու համար 🔎",
+        "selectBotLanguage": "Ընտրեք Bot-ի լեզուն",
+        "selectLanguage": "Ընտրեք լեզուն"
+    }
+}
