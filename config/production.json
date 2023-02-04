@@ -1,6 +1,6 @@
 {
     "token": "5121304011:AAHgWi3toQYUa6HzV0dlSow0j9D4bo3zhfA",
-    "DB_url": "mongodb+srv://vardges:5988898@cluster0.ab7ly.mongodb.net//library_bot?retryWrites=true&w=majority",
+    "DB_url": "mongodb+srv://vardges:5988898@cluster0.ab7ly.mongodb.net/library_bot?retryWrites=true&w=majority",
     "tg_api":{
 
 
