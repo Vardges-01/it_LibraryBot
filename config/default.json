@@ -1,6 +1,6 @@
 {
   "token": "5256276155:AAHi3N-C1Oe1pKZRA_ThA-4l9P2S4geX1Lg",
-  "DB_url": "mongodb+srv://budgetApp:5988898@cluster0.a82kjsz.mongodb.net/library_bot?retryWrites=true&w=majority",
+  "DB_url": "mongodb+srv://vardges:5988898@cluster0.ab7ly.mongodb.net/library_bot?retryWrites=true&w=majority",
   "redis_url": "redis://:IU99bs2iU9MjHycD2JyP11gApFQ0BdCr@redis-17407.c14.us-east-1-2.ec2.cloud.redislabs.com:17407",
   "tg_api":{
     "host": "https://api.telegram.org",
